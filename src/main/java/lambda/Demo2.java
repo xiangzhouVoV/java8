@@ -1,3 +1,5 @@
+package lambda;
+
 import com.sun.org.apache.regexp.internal.REUtil;
 import org.junit.Test;
 
